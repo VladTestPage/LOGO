@@ -848,6 +848,7 @@ body {
   width: 60vw;
   height: max-content;
   margin: 0 auto;
+  margin-bottom: 370px;
 }
 
 .testimonials__container-title {
@@ -1026,7 +1027,7 @@ body {
   width: 60vw;
   height: max-content;
   margin: 0 auto;
-  margin-top: 370px;
+/*   margin-top: 370px; */
 }
 
 .contact__container-title {
