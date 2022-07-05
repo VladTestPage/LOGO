@@ -1581,6 +1581,8 @@ input[type="text"] {
 @media screen and (max-width: 500px) {
   .main__container {
     height: 550px;
+    margin-top: 150px;
+    margin-bottom: 50px;
   }
 
   .main__container-article {
